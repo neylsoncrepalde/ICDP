@@ -1,1 +1,3 @@
-# Introdu‡Æo … Ciˆncia de Dados com Python
+# IntroduÃ§Ã£o Ã  CiÃªncia de Dados com Python
+
+Material do curso promovido pela NC Data Science.
